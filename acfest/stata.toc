@@ -2,4 +2,4 @@
 1
 2
 3
-p edm Empirical dynamic modeling and convergent cross-mapping Use edm With STATA 19
+p acfest Production function estimation using the Ackerberg-Caves-Frazer method Use acfest With STATA 19
